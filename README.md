@@ -1,0 +1,4 @@
+Agriculture plays a vital role in the Indian economy, but it often relies on water consumption that exceeds annual rainfall. To address this, our project focuses on an IoT-based Smart Agriculture System.
+IoT, or the Internet of Things, involves the interconnection of physical devices that can exchange data over a network without requiring direct human interaction. Sensors are essential for this smart agriculture system.Our system continuously monitors key environmental parameters such as soil moisture, temperature, and tank water levels, all of which significantly impact crop growth
+It is designed to track conditions like temperature, soil moisture content, air humidity, and water levels in agricultural fields, and to manage irrigation accordingly. 
+The real-time data collected by the system is sent to a cloud server, where it is stored, analyzed, and used for future decision-making and control actions.
